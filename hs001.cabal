@@ -27,6 +27,10 @@ library
     -- Modules included in this library but not exported.
     other-modules: Chapter01
     other-modules: Chapter02
+    other-modules: Chapter03
+    other-modules: Chapter04
+    other-modules: Chapter05
+    other-modules: Chapter06
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
