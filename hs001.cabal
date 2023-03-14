@@ -25,12 +25,10 @@ library
     exposed-modules:  Playground
 
     -- Modules included in this library but not exported.
-    other-modules: Chapter01
-    other-modules: Chapter02
-    other-modules: Chapter03
-    other-modules: Chapter04
-    other-modules: Chapter05
-    other-modules: Chapter06
+    other-modules: Chapter01 Chapter02 Chapter03
+    other-modules: Chapter04 Chapter05 Chapter06
+    other-modules: Syntax Recursion HighOrder
+    other-modules: Mod Geometry
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
@@ -42,7 +40,6 @@ executable hs001
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
---    other-modules: Chapter01
     -- other-modules:
 
     -- LANGUAGE extensions used by modules in this package.
