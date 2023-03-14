@@ -35,15 +35,15 @@ last3 :: [a] -> a
 last3 xs = head (reverse xs)
 
 -- without last
-init1 :: [a] -> [a] 
+init1 :: [a] -> [a]
 init1 [x, _] = [x]
 init1 (x : xs) = x : init1 xs
 
-init2 :: [a] -> [a] 
+init2 :: [a] -> [a]
 init2 xs = reverse (drop 1 (reverse xs))
 
-init3 :: [a] -> [a] 
+init3 :: [a] -> [a]
 init3 xs = take (length xs - 1 ) xs
 
-init4 :: [a] -> [a] 
+init4 :: [a] -> [a]
 init4 xs = reverse (tail (reverse xs))
