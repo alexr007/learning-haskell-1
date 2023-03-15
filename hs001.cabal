@@ -27,6 +27,7 @@ library
     -- Modules included in this library but not exported.
     other-modules: Chapter01 Chapter02 Chapter03
     other-modules: Chapter04 Chapter05 Chapter06
+    other-modules: Chapter07 Chapter08 Chapter09
     other-modules: Syntax Recursion HighOrder
     other-modules: Mod Geometry
 
