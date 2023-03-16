@@ -2,4 +2,5 @@
 .stack-work
 dist-newstyle
 *.iml
+*.cabal
 stack.yaml.lock

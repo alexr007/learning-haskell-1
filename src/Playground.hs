@@ -4,9 +4,11 @@ module Playground (
 
 import Chapter01
 import Chapter02
+import Lib
 
 entryPoint :: IO ()
 entryPoint = do
+  Lib.someFunc
   print d
   print sorted
   print (double 7) -- 14

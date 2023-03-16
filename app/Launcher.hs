@@ -1,6 +1,4 @@
-module Main where
-
-import qualified Playground (entryPoint)
+import Playground
 
 main :: IO ()
 main = do
