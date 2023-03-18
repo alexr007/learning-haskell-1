@@ -5,5 +5,5 @@ module Lib (
 --import Data.Aeson ( encode )
 
 someFunc :: IO ()
-someFunc = print 42
+someFunc = print (42::Int)
 --someFunc = print (encode ["Hello", "world"])

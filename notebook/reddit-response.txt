@@ -1,0 +1,51 @@
+1. Insall with https://www.haskell.org/ghcup/
+2. Use vscode to start with and install
+3. https://marketplace.visualstudio.com/items?itemName=haskell.haskell (357.255)
+
+4. https://downloads.haskell.org/ghc/latest/docs/users_guide/
+5. https://cabal.readthedocs.io/en/3.10/getting-started.html
+
+6. https://hackage.haskell.org
+7. https://hoogle.haskell.org
+
+8. https://github.com/tweag/ormolu
+9. https://hackage.haskell.org/package/hlint
+10. https://github.com/ndmitchell/weeder
+
+11. https://github.com/haskell-effectful/effectful
+12. Pipes or Conduit
+13. https://hackage.haskell.org/package/aeson
+14. https://hackage.haskell.org/package/http-client-tls
+
+15. https://rel8.readthedocs.io/en/latest/
+16. https://hackage.haskell.org/package/postgresql-simple-0.6.5/docs/Database-PostgreSQL-Simple.html
+17. https://hackage.haskell.org/packages/search?terms=dynamo
+
+18. https://github.com/nodew/haskell-realworld-example
+
+https://haskell.mooc.fi/material/
+https://leanpub.com/magicalhaskell
+http://www.learnyouahaskell.com/
+https://leanpub.com/haskell-cookbook
+https://en.wikibooks.org/wiki/Haskell
+https://haskellbook.com/
+https://www.haskell.org/onlinereport/haskell2010/
+
+https://discourse.haskell.org/
+https://play.haskell.org/
+https://www.haskell.org/get-started
+https://leanpub.com/haskell-stdlibs
+
+https://haskell.pl-a.net/
+https://haskellweekly.news/
+https://haskell-docs.netlify.app/packages/overview/
+https://haskell-docs.netlify.app/gettingstarted/overview/
+https://haskell-docs.netlify.app/resources/resources/
+https://haskell-docs.netlify.app/packages/survey/
+https://haskell-docs.netlify.app/basics/types/
+
+https://github.com/Gabriella439/post-rfc/blob/main/sotu.md
+https://www.williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html
+https://www.fpcomplete.com/blog/2017/06/readert-design-pattern/
+https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
+https://github.com/lexi-lambda/mtl-style-example
