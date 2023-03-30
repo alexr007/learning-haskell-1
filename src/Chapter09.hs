@@ -83,6 +83,9 @@ size (Val _) = 1
 size (Add x y) = size x + size y
 size (Mul x y) = size x + size y
 
+-- eval (Val 3)
+-- eval (Add (Val 1) (Val 2))
+-- eval ((Mul (Val 5)) (Add (Val 1) (Val 2)))
 eval :: Expr -> Int
 eval (Val x) = x
 eval (Add x y) = eval x + eval y
